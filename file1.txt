@@ -1,2 +1,0 @@
-hello, this is my first GitHub file
-I am trying to update my repository text file 
